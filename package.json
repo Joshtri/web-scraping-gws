@@ -1,0 +1,16 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "google-play-scraper": "^10.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^22.8.0"
+  }
+}
